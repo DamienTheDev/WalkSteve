@@ -1,0 +1,7 @@
+You may use this game in anyway for non-commercial practice, with all credit to the original maker, DamienTheDev / Damien Davis-Neff / GoldenSpyro
+Do not re-use / take credit for any part of this game
+
+Made using code.org's gamelab
+
+Do not attempt to open in google chrome.
+Only use gamelab.
