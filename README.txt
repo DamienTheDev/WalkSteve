@@ -19,3 +19,5 @@ DO NOT RE-USE / TAKE CREDIT
 
 
 This is meant for code.org's gamelab and you can view that here: https://studio.code.org/projects/gamelab/TKtg6f1ApC3mROT3DFdRNHgGUFMB3p9zhfTto5eEBrU
+
+Yes, I am aware of how disgusting this code looks
