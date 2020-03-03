@@ -353,7 +353,7 @@ if (score==40) {
     Version 1.0 Release
     Added Ability To Move Steve
     
-    Version 1.2
+    Version 1.1
     Added Smoother Animations
     Added Clouds
     Basic Bug Fixes
